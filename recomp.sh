@@ -2,6 +2,7 @@
 
 git add .
 git commit -m "new commit"
+git push -u origin master
 cd _posts
 git add .
 git commit -m "new commit"
